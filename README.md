@@ -1,298 +1,237 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Ammar%20Ahmed&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Ammar Ahmed"/>
+# Ammar Ahmed
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Graduate+%F0%9F%8E%93;React+%7C+Next.js+%7C+Node.js;Building+Modern+Digital+Solutions+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9A%A1" alt="Typing SVG"/>
+### Full-Stack Developer | React & Next.js Developer | Software Engineer
 
-<br/>
+Building modern, scalable, business-oriented web applications — from responsive frontends to robust backends and database architecture.
 
-<img src="https://komarev.com/ghpvc/?username=Ammaramd22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<a href="https://github.com/Ammaramd22?tab=followers">
-<img src="https://img.shields.io/github/followers/Ammaramd22?style=for-the-badge&logo=github&label=Followers&color=2563EB" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/Ammaramd22">
-<img src="https://img.shields.io/github/stars/Ammaramd22?style=for-the-badge&logo=github&label=Total%20Stars&color=06B6D4" alt="Total Stars"/>
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=Ammaramd22&label=Profile%20Views&color=0ea5e9&style=flat)](https://github.com/Ammaramd22)
+[![GitHub](https://img.shields.io/badge/GitHub-Ammaramd22-0ea5e9?style=flat&logo=github&logoColor=white)](https://github.com/Ammaramd22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ammarahmed22-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarahmed22)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```javascript
-const ammar = {
-    role: "Full-Stack Developer",
-    education: "BSc (Hons) in Computer Science",
-    location: "Sri Lanka 🇱🇰",
+I am a Full-Stack Developer focused on designing and delivering enterprise-grade web applications that solve real business problems.
 
-    frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express", "Java", "Spring Boot"],
-    databases: ["Supabase", "MySQL", "Firebase", "MongoDB"],
+I work across the full stack — building responsive UI/UX, developing APIs and backend services, and designing database architectures that support scalable, production-ready systems.
 
-    interests: [
-        "Enterprise Applications",
-        "System Architecture",
-        "AI-Powered Applications",
-        "Cloud Technologies"
-    ],
+I hold a Computer Science degree from the **University of Bedfordshire**, and apply that foundation to real-world software used in POS, inventory, fleet, hospitality, and e-commerce environments.
 
-    mindset: "Code → Learn → Build → Improve 🚀"
-};
-```
-
-I'm a passionate **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
-
-I enjoy transforming real-world business requirements into reliable software solutions through clean architecture, intuitive interfaces, and scalable backend systems.
+**Core focus areas**
+- Scalable full-stack web application development
+- Enterprise software and business management systems
+- POS, inventory, fleet, and hospitality platforms
+- E-commerce applications
+- Modern frontend and backend engineering
 
 ---
 
-## 🚀 Current Focus
+## Professional Focus
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Enterprise Applications
-
-Building enterprise-level platforms with complex business workflows, role-based access, reporting, and real-time data.
-
-</td>
-<td width="50%">
-
-### ⚡ Full-Stack Development
-
-Working across frontend, backend, databases, APIs, authentication, deployment, and system architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Technologies
-
-Working with Supabase, cloud databases, storage, authentication, APIs, and modern deployment platforms.
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Modern Web
-
-Exploring AI-powered applications and intelligent features that can solve real-world business problems.
-
-</td>
-</tr>
-</table>
+| Area | Focus |
+| :--- | :--- |
+| Enterprise Applications | Business-oriented platforms for operations and management |
+| Full-Stack Development | End-to-end delivery across frontend, backend, and data layers |
+| React & Next.js | Modern, performant user interfaces and web applications |
+| REST APIs | Reliable API design and integration |
+| Database Architecture | Structured data modeling and system integration |
+| POS & ERP Solutions | Billing, inventory, and operational workflows |
+| Cloud Applications | Cloud-backed application development and deployment |
+| AI Integration | Practical AI features within business applications |
 
 ---
 
-## 🛠️ Tech Stack
+## Technology Stack
 
-### 💻 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind,bootstrap,redux&perline=10" alt="Frontend"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,bootstrap,materialui,vite" alt="Frontend technologies" />
+  </a>
 </p>
 
-### ⚙️ Backend & Database
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` · `Bootstrap` · `Material UI` · `Vite`
+
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,mongodb,firebase,supabase&perline=8" alt="Backend and database"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring" alt="Backend technologies" />
+  </a>
 </p>
 
-### 🧠 Programming Languages
+`Node.js` · `Express.js` · `PHP` · `Laravel` · `Java` · `Spring Boot`
+
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,java,cpp,c,python&perline=5" alt="Programming languages"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase" alt="Database technologies" />
+  </a>
 </p>
 
-### 🔧 Tools & Platforms
+`MySQL` · `PostgreSQL` · `Supabase` · `MongoDB` · `Firebase`
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel&perline=7" alt="Tools"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,cpp,python,php" alt="Programming languages" />
+  </a>
 </p>
 
----
+`JavaScript` · `Java` · `C++` · `Python` · `PHP`
 
-## 🌟 Featured Projects
+### Tools
 
-<table>
-<tr>
-<td width="50%">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,npm" alt="Development tools" />
+  </a>
+</p>
 
-### 🚗 Fleet Operations Management Platform
-
-Enterprise fleet management platform covering:
-
-* Vehicle Management
-* Rentals
-* Customers
-* Maintenance
-* Incidents
-* Tow Services
-* Finance
-* Reports
-* Role-Based Access
-* Document Expiry Tracking
-
-</td>
-<td width="50%">
-
-### 💎 Jewellery E-Commerce Platform
-
-Modern jewellery e-commerce platform featuring:
-
-* Product Catalog
-* Categories
-* Shopping Cart
-* Wishlist
-* Authentication
-* Admin Dashboard
-* Order Management
-* Supabase Backend
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📦 Inventory Management System
-
-Business inventory platform featuring:
-
-* Product Management
-* Categories
-* Suppliers
-* Stock Tracking
-* Reports
-* Dashboard
-* Business Workflows
-
-</td>
-<td width="50%">
-
-### 🧾 Accountant Firm Management
-
-Business management platform designed for accounting firms with:
-
-* Client Management
-* Document Handling
-* Administrative Tools
-* Business Workflows
-* Dashboard
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📰 Blog Platform
-
-Modern content management platform with:
-
-* Rich Text Editor
-* Categories
-* Authentication
-* Comments
-* Admin Panel
-
-</td>
-<td width="50%">
-
-### 💡 More Projects
-
-Continuously building and experimenting with:
-
-* Full-Stack Applications
-* Enterprise Systems
-* SaaS Platforms
-* AI-Powered Applications
-* Modern Web Experiences
-
-</td>
-</tr>
-</table>
+`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Postman` · `Figma` · `npm`
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
+
+### QPOS — Restaurant POS & Management System
+
+A comprehensive restaurant and bakery management platform covering billing, kitchen operations, inventory, and multi-branch workflows.
+
+**Highlights**
+- POS Billing
+- Inventory Management
+- Kitchen Display System (KDS)
+- Kitchen Order Tickets (KOT)
+- Waiter Management
+- QR Table Ordering
+- Purchasing and Supplier Management
+- Recipe Management
+- Finance and Reports
+- Multi-Branch Management
+
+[Repository](https://github.com/Ammaramd22/mtc-qpos)
+
+---
+
+### QHotelPro — Hospitality Management System
+
+A comprehensive hospitality management platform for booking, front desk, guest services, and operational oversight.
+
+**Highlights**
+- Booking and Reservations
+- Accommodation Management
+- Front Desk Operations
+- Guest Management
+- Purchasing and Suppliers
+- Financial Management
+- Staff Management
+- Fleet Management
+- Reporting and Analytics
+
+---
+
+### Fleet Operations Management Platform
+
+An enterprise fleet management application for vehicles, rentals, maintenance, and operational control — built with React, Vite, Tailwind CSS, and Supabase.
+
+**Highlights**
+- Vehicle Management
+- Rental Management
+- Customer Management
+- Maintenance Tracking
+- Incident Management
+- Tow Services
+- Fleet Expenses
+- Finance and Reports
+- Role-Based Access Control
+
+[Repository](https://github.com/Ammaramd22/Fleet-Management_V1)
+
+---
+
+### Jewellery E-Commerce Platform
+
+A modern jewellery e-commerce application with catalog browsing, shopping flows, and admin operations.
+
+**Highlights**
+- Product Catalog
+- Product Categories
+- Shopping Cart
+- Wishlist
+- Authentication
+- Admin Dashboard
+- Order Management
+- Supabase Integration
+
+---
+
+### AutoLedger — Vehicle Dealer Management
+
+A business management application for vehicle dealers, supporting accounting workflows, vehicle management, and day-to-day dealer operations.
+
+---
+
+### Accountant Firm Management System
+
+A business management platform for accounting firms, focused on client management, document handling, and administrative operations.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ammaramd22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammaramd22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ammaramd22&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&ring_color=2563eb" height="180" alt="GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ammaramd22&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="180" alt="Top languages"/>
+<br />
 
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammaramd22&theme=github-dark&hide_border=true&background=0d1117&ring=22d3ee&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ammaramd22&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=22d3ee&point=38bdf8&area=true&area_color=0ea5e9" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## Currently Exploring
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ammaramd22&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=94A3B8&dates=64748B" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-activity-chart.vercel.app/graph?username=Ammaramd22&bg_color=0d1117&color=94a3b8&line=38bdf8&point=2563eb&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
+- Advanced System Architecture
+- Scalable Backend Development
+- AI-Powered Applications
+- Cloud Infrastructure and Deployment
+- Performance Optimization
+- Modern Web Application Technologies
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ammaramd22/Ammaramd22/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ammaramd22/Ammaramd22/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ammaramd22/Ammaramd22/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🎯 Goals for 2026
-
-<div align="center">
-
-| Goal | Status |
-| --- | --- |
-| 🚀 Build Enterprise Applications | 🔄 In Progress |
-| 🌎 Contribute to Open Source | 🔄 In Progress |
-| 🏗️ Master System Architecture | 🔄 Learning |
-| 🤖 Explore AI Applications | 🔄 Learning |
-| ☁️ Strengthen Cloud Skills | 🔄 Learning |
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Ammaramd22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/ammarahmed22">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Code.+Learn.+Build.+Improve.+Repeat.+%E2%9A%A1" alt="Footer typing animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+Open to collaboration on full-stack and enterprise web applications.
 
 </div>
