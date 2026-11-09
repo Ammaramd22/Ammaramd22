@@ -182,19 +182,25 @@ A business management platform for accounting firms, focused on client managemen
 
 <div align="center">
 
-![GitHub Statistics](https://capsule-render.vercel.app/api?type=transparent&height=70&color=22d3ee&text=GitHub%20Statistics&fontSize=30&fontColor=38bdf8&animation=fadeIn&fontAlignY=40)
+![GitHub Statistics](https://capsule-render.vercel.app/api?type=transparent&height=70&color=00f5ff&text=SYSTEM%20METRICS&fontSize=34&fontColor=00f5ff&animation=fadeIn&fontAlignY=40)
+
+![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=700&height=40&lines=%3E+INITIALIZING_GITHUB_ANALYTICS...;%3E+FETCHING_LIVE_CONTRIBUTION_DATA...;%3E+SYSTEM_STATUS%3A+ONLINE)
 
 <br />
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammaramd22&theme=tokyonight)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammaramd22&theme=2077)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammaramd22&theme=tokyonight)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammaramd22&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammaramd22&theme=2077)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammaramd22&theme=2077)
 
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammaramd22&theme=tokyonight)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammaramd22&theme=tokyonight&utcOffset=5.5)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammaramd22&theme=2077)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammaramd22&theme=2077&utcOffset=5.5)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ammaramd22&theme=tokyonight&hide_border=true)
+<br />
+
+![streak label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=480&height=30&lines=%3E+CONTRIBUTION_STREAK_MONITOR)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ammaramd22&background=0D0221&ring=00F5FF&fire=39FF14&currStreakNum=00F5FF&sideNums=EAEAEA&currStreakLabel=00F5FF&sideLabels=A0A0A0&dates=7A7A7A&stroke=00F5FF&hide_border=false)
 
 </div>
 
