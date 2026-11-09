@@ -213,22 +213,22 @@ A business management platform for accounting firms, focused on client managemen
 
 <br />
 
-![activity label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=580&height=28&lines=%3E+CONTRIBUTION_ACTIVITY_%7C_LAST_12_MONTHS)
+![analytics label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=%3E+TECHNOLOGY_DISTRIBUTION_%26_COMMIT_ENGINE)
 
 <table>
   <tr>
-    <td width="55%" valign="top" align="center">
-      <img src="https://ghchart.rshah.org/00f5ff/Ammaramd22" width="100%" alt="Contribution Activity" />
-    </td>
-    <td width="45%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammaramd22&theme=2077" width="100%" alt="Technology Distribution" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammaramd22&theme=2077" width="100%" alt="Top Languages by Commit" />
     </td>
   </tr>
   <tr>
-    <td width="55%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammaramd22&theme=2077&utcOffset=5.5" width="100%" alt="Commits Activity" />
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammaramd22&theme=2077" width="100%" alt="GitHub Profile Overview" />
     </td>
   </tr>
