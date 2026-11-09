@@ -182,48 +182,65 @@ A business management platform for accounting firms, focused on client managemen
 
 <div align="center">
 
-![AMMAR.DEV](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&height=40&lines=AMMAR.DEV+%2F+ANALYTICS)
+![AMMAR.DEV](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&height=35&lines=AMMAR.DEV+%2F+ANALYTICS+%7C+DEVELOPER+SYSTEM+DASHBOARD)
 
-![dashboard title](https://capsule-render.vercel.app/api?type=transparent&height=80&color=00f5ff&text=SYSTEM%20METRICS&fontSize=36&fontColor=00f5ff&animation=fadeIn&fontAlignY=35)
+![dashboard title](https://capsule-render.vercel.app/api?type=transparent&height=80&color=00f5ff&text=SYSTEM%20METRICS&fontSize=38&fontColor=00f5ff&animation=fadeIn&fontAlignY=35)
 
-![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=35&lines=DEVELOPER+PERFORMANCE+DASHBOARD+%E2%80%A2+GITHUB+ANALYTICS)
+![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=30&lines=DEVELOPER+PERFORMANCE+DASHBOARD+%E2%80%A2+GITHUB+ANALYTICS)
 
 ![online](https://img.shields.io/badge/%E2%97%8F_SYSTEM_ONLINE-39FF14?style=for-the-badge&labelColor=0D0221)
 
 <br />
 
-<img src="./assets/neon-dashboard.jpg" width="100%" alt="Ammar.dev Analytics Dashboard" />
+![kpi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=420&height=28&lines=%3E+LIVE_KPI_STREAM)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public_Repositories-19-00F5FF?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=00F5FF" alt="Public Repositories" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contributions-130+-A78BFA?style=for-the-badge&labelColor=0D0221&logo=git&logoColor=A78BFA" alt="Contributions" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Stars-02-FBBF24?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=FBBF24" alt="Total Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Development_Focus-Full_Stack-39FF14?style=for-the-badge&labelColor=0D0221&logo=react&logoColor=39FF14" alt="Development Focus" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-![kpi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=520&height=30&lines=%3E+LIVE_KPI_STREAM)
+![activity label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=580&height=28&lines=%3E+CONTRIBUTION_ACTIVITY_%7C_LAST_12_MONTHS)
 
-![Repos](https://img.shields.io/badge/Public_Repositories-19-00F5FF?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=00F5FF)
-![Contributions](https://img.shields.io/badge/Contributions-130+-A78BFA?style=for-the-badge&labelColor=0D0221&logo=git&logoColor=A78BFA)
-![Stars](https://img.shields.io/badge/Total_Stars-02-FBBF24?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=FBBF24)
-![Focus](https://img.shields.io/badge/Development_Focus-Full_Stack-39FF14?style=for-the-badge&labelColor=0D0221&logo=react&logoColor=39FF14)
+<table>
+  <tr>
+    <td width="55%" valign="top" align="center">
+      <img src="https://ghchart.rshah.org/00f5ff/Ammaramd22" width="100%" alt="Contribution Activity" />
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammaramd22&theme=2077" width="100%" alt="Technology Distribution" />
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammaramd22&theme=2077&utcOffset=5.5" width="100%" alt="Commits Activity" />
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammaramd22&theme=2077" width="100%" alt="GitHub Profile Overview" />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
-
-![activity label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=700&color=39FF14&center=true&vCenter=true&width=560&height=30&lines=%3E+CONTRIBUTION_ACTIVITY_%7C_LAST_12_MONTHS)
-
-![Contribution Chart](https://ghchart.rshah.org/00f5ff/Ammaramd22)
-
-<br /><br />
-
-![analytics label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=560&height=30&lines=%3E+TECHNOLOGY_DISTRIBUTION_%26_COMMIT_ENGINE)
-
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammaramd22&theme=2077)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammaramd22&theme=2077)
-
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammaramd22&theme=2077&utcOffset=5.5)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammaramd22&theme=2077)
+<br />
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammaramd22&theme=2077)
 
 <br />
 
-![streak label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=480&height=30&lines=%3E+CONTRIBUTION_STREAK_MONITOR)
+![streak label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=480&height=28&lines=%3E+CONTRIBUTION_STREAK_MONITOR)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ammaramd22&background=0D0221&ring=00F5FF&fire=39FF14&currStreakNum=00F5FF&sideNums=EAEAEA&currStreakLabel=00F5FF&sideLabels=A0A0A0&dates=7A7A7A&stroke=00F5FF&hide_border=false)
 
