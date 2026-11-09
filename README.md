@@ -2,13 +2,17 @@
 
 # Ammar Ahmed
 
-### Full-Stack Developer | React & Next.js Developer | Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Full-Stack+Developer;React+%26+Next.js+Developer;Software+Engineer" alt="Typing headline" />
 
-Building modern, scalable, business-oriented web applications — from responsive frontends to robust backends and database architecture.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=40&lines=Building+modern%2C+scalable%2C+business-oriented+web+applications" alt="Typing tagline" />
+
+<br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ammaramd22&label=Profile%20Views&color=0ea5e9&style=flat)](https://github.com/Ammaramd22)
 [![GitHub](https://img.shields.io/badge/GitHub-Ammaramd22-0ea5e9?style=flat&logo=github&logoColor=white)](https://github.com/Ammaramd22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ammarahmed22-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarahmed22)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
 
 </div>
 
@@ -28,6 +32,8 @@ I hold a Computer Science degree from the **University of Bedfordshire**, and ap
 - POS, inventory, fleet, and hospitality platforms
 - E-commerce applications
 - Modern frontend and backend engineering
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
 
 ---
 
@@ -97,6 +103,8 @@ I hold a Computer Science degree from the **University of Bedfordshire**, and ap
 </p>
 
 `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Postman` · `Figma` · `npm`
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
 
 ---
 
@@ -184,37 +192,40 @@ A business management application for vehicle dealers, supporting accounting wor
 
 A business management platform for accounting firms, focused on client management, document handling, and administrative operations.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ammaramd22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammaramd22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
-</div>
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Ammaramd22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammaramd22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammaramd22&theme=github-dark&hide_border=true&background=0d1117&ring=22d3ee&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
+<br /><br />
 
-<br />
+<img src="https://streak-stats.demolab.com/?user=Ammaramd22&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ammaramd22&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=22d3ee&point=38bdf8&area=true&area_color=0ea5e9" alt="Contribution Graph" />
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammaramd22&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ammaramd22&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
 ## Currently Exploring
 
-- Advanced System Architecture
-- Scalable Backend Development
-- AI-Powered Applications
-- Cloud Infrastructure and Deployment
-- Performance Optimization
-- Modern Web Application Technologies
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Advanced+System+Architecture;Scalable+Backend+Development;AI-Powered+Applications;Cloud+Infrastructure+and+Deployment;Performance+Optimization;Modern+Web+Application+Technologies" alt="Currently exploring" />
+
+</div>
 
 ---
 
@@ -232,6 +243,6 @@ A business management platform for accounting firms, focused on client managemen
 
 <br /><br />
 
-Open to collaboration on full-stack and enterprise web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&height=30&lines=Open+to+collaboration+on+full-stack+projects" alt="Connect message" />
 
 </div>
